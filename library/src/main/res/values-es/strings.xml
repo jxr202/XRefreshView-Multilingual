@@ -1,0 +1,20 @@
+<resources>
+    <string name="xrefreshview_header_hint_normal">actualización desplegable</string>
+    <string name="xrefreshview_header_hint_ready">Refrescar la publicación del informe</string>
+    <string name="xrefreshview_header_hint_refreshing">refrescante…</string>
+    <string name="xrefreshview_header_hint_loading">Cargando…</string>
+    <string name="xrefreshview_header_hint_loaded">Cargando completado</string>
+    <string name="xrefreshview_header_hint_loaded_fail">加载失败</string>
+    <string name="xrefreshview_header_last_time">última actualización：</string>
+    <string name="xrefreshview_footer_hint_normal">Cargando completado</string>
+    <string name="xrefreshview_footer_hint_fail">No se pudo cargar, por favor intente de nuevo</string>
+    <string name="xrefreshview_footer_hint_complete">Más datos ya no es</string>
+    <string name="xrefreshview_footer_hint_click">Haga clic en Cargar más</string>
+    <string name="xrefreshview_footer_hint_release">松开加载更多</string>
+    <string name="xrefreshview_footer_hint_ready">Afloje Cargar más</string>
+    <string name="xrefreshview_never_refresh">Nunca refrescar</string>
+    <string name="xrefreshview_refresh_justnow">Sólo refrescar</string>
+    <string name="xrefreshview_refresh_minutes_ago">%1s refrescar hace minutos</string>
+    <string name="xrefreshview_refresh_hours_ago">%1s horas antes de actualización</string>
+    <string name="xrefreshview_refresh_days_ago">%1s días antes de actualización</string>
+</resources>

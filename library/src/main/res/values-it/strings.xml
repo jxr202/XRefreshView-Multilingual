@@ -1,0 +1,20 @@
+<resources>
+    <string name="xrefreshview_header_hint_normal">aggiornamento a discesa</string>
+    <string name="xrefreshview_header_hint_ready">Aggiornare il rilascio dei dati</string>
+    <string name="xrefreshview_header_hint_refreshing">rinfrescante…</string>
+    <string name="xrefreshview_header_hint_loading">caricamento…</string>
+    <string name="xrefreshview_header_hint_loaded">Caricamento completato</string>
+    <string name="xrefreshview_header_hint_loaded_fail">加载失败</string>
+    <string name="xrefreshview_header_last_time">Ultimo aggiornamento：</string>
+    <string name="xrefreshview_footer_hint_normal">Caricamento completato</string>
+    <string name="xrefreshview_footer_hint_fail">Impossibile caricare, riprova</string>
+    <string name="xrefreshview_footer_hint_complete">Più dati non è più</string>
+    <string name="xrefreshview_footer_hint_click">Fare clic su Carica più</string>
+    <string name="xrefreshview_footer_hint_release">松开加载更多</string>
+    <string name="xrefreshview_footer_hint_ready">Allentare Carica ancora</string>
+    <string name="xrefreshview_never_refresh">mai aggiornare</string>
+    <string name="xrefreshview_refresh_justnow">basta aggiornare</string>
+    <string name="xrefreshview_refresh_minutes_ago">%1s rinfrescare minuti fa</string>
+    <string name="xrefreshview_refresh_hours_ago">%1s ora prima di aggiornamento</string>
+    <string name="xrefreshview_refresh_days_ago">%1s giorni prima di aggiornamento</string>
+</resources>

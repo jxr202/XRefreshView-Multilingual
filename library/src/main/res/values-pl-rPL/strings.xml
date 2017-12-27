@@ -1,0 +1,20 @@
+<resources>
+    <string name="xrefreshview_header_hint_normal">odświeżanie pulldown</string>
+    <string name="xrefreshview_header_hint_ready">Poluzuj odświeżanie danych</string>
+    <string name="xrefreshview_header_hint_refreshing">refreshing…</string>
+    <string name="xrefreshview_header_hint_loading">Ładowanie…</string>
+    <string name="xrefreshview_header_hint_loaded"> Załaduj wypełniony</string>
+    <string name="xrefreshview_header_hint_loaded_fail">nie udało się wczytać</string>
+    <string name="xrefreshview_header_last_time">Ostatnia aktualizacja:</string>
+    <string name="xrefreshview_footer_hint_normal">Załaduj wypełniony</string>
+    <string name="xrefreshview_footer_hint_fail">nie udało się wczytać, spróbuj ponownie</string>
+    <string name="xrefreshview_footer_hint_complete">brak więcej danych</string>
+    <string name="xrefreshview_footer_hint_click">kliknij, aby załadować więcej</string>
+    <string name="xrefreshview_footer_hint_release">Obciążenia ładują więcej</string>
+    <string name="xrefreshview_footer_hint_ready">Obciążenia ładują więcej</string>
+    <string name="xrefreshview_never_refresh">Nigdy nie odświeżony</string>
+    <string name="xrefreshview_refresh_justnow">po prostu odświeżony</string>
+    <string name="xrefreshview_refresh_minutes_ago">Odśwież %1s minut temu</string>
+    <string name="xrefreshview_refresh_hours_ago">Odśwież% %1s godzin temu</string>
+    <string name="xrefreshview_refresh_days_ago">%1s dni przed odświeżeniem</string>
+</resources>

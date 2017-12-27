@@ -1,0 +1,20 @@
+<resources>
+    <string name="xrefreshview_header_hint_normal">풀다운 새로 고침</string>
+    <string name="xrefreshview_header_hint_ready">새로 고침 데이터를 느슨하게합니다</string>
+    <string name="xrefreshview_header_hint_refreshing">새로 고침…</string>
+    <string name="xrefreshview_header_hint_loading">로드 중…</string>
+    <string name="xrefreshview_header_hint_loaded">로드 완료</string>
+    <string name="xrefreshview_header_hint_loaded_fail">로드 실패</string>
+    <string name="xrefreshview_header_last_time">마지막 업데이트 시간：</string>
+    <string name="xrefreshview_footer_hint_normal">로드 완료</string>
+    <string name="xrefreshview_footer_hint_fail">로드하지 못했습니다. 다시 시도하십시오.</string>
+    <string name="xrefreshview_footer_hint_complete">더 이상 데이터가 없습니다.</string>
+    <string name="xrefreshview_footer_hint_click">클릭하여 더로드</string>
+    <string name="xrefreshview_footer_hint_release">더 많은로드로드</string>
+    <string name="xrefreshview_footer_hint_ready">더 많은로드로드</string>
+    <string name="xrefreshview_never_refresh">새로 고침하지 않음</string>
+    <string name="xrefreshview_refresh_justnow">방금 새로 고침</string>
+    <string name="xrefreshview_refresh_minutes_ago">%1s 분당 새로 고침</string>
+    <string name="xrefreshview_refresh_hours_ago">새로 고침 전 %1s 시간</string>
+    <string name="xrefreshview_refresh_days_ago">새로 고침 전 %1s</string>
+</resources>

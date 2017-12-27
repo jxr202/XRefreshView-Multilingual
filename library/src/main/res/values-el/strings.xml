@@ -1,0 +1,20 @@
+<resources>
+    <string name="xrefreshview_header_hint_normal">Drop-down ανανέωσης</string>
+    <string name="xrefreshview_header_hint_ready">Ανανεώστε την απελευθέρωση των δεδομένων</string>
+    <string name="xrefreshview_header_hint_refreshing">δροσιστικό…</string>
+    <string name="xrefreshview_header_hint_loading">φόρτωση…</string>
+    <string name="xrefreshview_header_hint_loaded">φόρτωση ολοκληρώθηκε</string>
+    <string name="xrefreshview_header_hint_loaded_fail">加载失败</string>
+    <string name="xrefreshview_header_last_time">τελευταία ενημέρωση：</string>
+    <string name="xrefreshview_footer_hint_normal">φόρτωση ολοκληρώθηκε</string>
+    <string name="xrefreshview_footer_hint_fail">Αποτυχία φόρτωσης, παρακαλώ προσπαθήστε ξανά</string>
+    <string name="xrefreshview_footer_hint_complete">Περισσότερα στοιχεία δεν είναι πλέον</string>
+    <string name="xrefreshview_footer_hint_click">Κάντε κλικ στο κουμπί Load περισσότερα</string>
+    <string name="xrefreshview_footer_hint_release">松开加载更多</string>
+    <string name="xrefreshview_footer_hint_ready">Χαλαρώστε Τοποθετήστε περισσότερα</string>
+    <string name="xrefreshview_never_refresh">ποτέ μην ανανεώσετε</string>
+    <string name="xrefreshview_refresh_justnow">απλά ανανεώσετε</string>
+    <string name="xrefreshview_refresh_minutes_ago">%1s ανανεώσετε λεπτά πριν</string>
+    <string name="xrefreshview_refresh_hours_ago">%1s ώρα πριν ανανέωσης</string>
+    <string name="xrefreshview_refresh_days_ago">%1s ημέρες πριν ανανέωσης</string>
+</resources>

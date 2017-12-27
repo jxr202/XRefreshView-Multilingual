@@ -1,0 +1,20 @@
+<resources>
+    <string name="xrefreshview_header_hint_normal">Pulldown-Aktualisierung</string>
+    <string name="xrefreshview_header_hint_ready">Aktualisieren Sie die Datenfreigabe</string>
+    <string name="xrefreshview_header_hint_refreshing">erfrischend…</string>
+    <string name="xrefreshview_header_hint_loading">Laden…</string>
+    <string name="xrefreshview_header_hint_loaded">Laden abgeschlossen</string>
+    <string name="xrefreshview_header_hint_loaded_fail">konnte nicht geladen werden</string>
+    <string name="xrefreshview_header_last_time">Zuletzt aktualisiert：</string>
+    <string name="xrefreshview_footer_hint_normal">Laden abgeschlossen</string>
+    <string name="xrefreshview_footer_hint_fail">Wieder Fehler beim Laden, bitte versuchen Sie</string>
+    <string name="xrefreshview_footer_hint_complete">Weitere Daten nicht mehr</string>
+    <string name="xrefreshview_footer_hint_click">Klicken Sie auf Laden mehr</string>
+    <string name="xrefreshview_footer_hint_release">松开加载更多</string>
+    <string name="xrefreshview_footer_hint_ready">Lösen Sie laden mehr</string>
+    <string name="xrefreshview_never_refresh">nie aktualisieren</string>
+    <string name="xrefreshview_refresh_justnow">Nur aktualisieren</string>
+    <string name="xrefreshview_refresh_minutes_ago">%1s aktualisieren Minuten vor</string>
+    <string name="xrefreshview_refresh_hours_ago">%1s Stunde vor dem Refresh</string>
+    <string name="xrefreshview_refresh_days_ago">%1s Tage vor Refresh</string>
+</resources>

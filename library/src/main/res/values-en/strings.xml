@@ -1,0 +1,20 @@
+<resources>
+    <string name="xrefreshview_header_hint_normal">Pull down to refresh</string>
+    <string name="xrefreshview_header_hint_ready">Loosen to refresh</string>
+    <string name="xrefreshview_header_hint_refreshing">Refreshing…</string>
+    <string name="xrefreshview_header_hint_loading">Loading…</string>
+    <string name="xrefreshview_header_hint_loaded">Loading completed</string>
+    <string name="xrefreshview_header_hint_loaded_fail">加载失败</string>
+    <string name="xrefreshview_header_last_time">Last updated：</string>
+    <string name="xrefreshview_footer_hint_normal">Loading completed</string>
+    <string name="xrefreshview_footer_hint_fail">Failed to load, try again</string>
+    <string name="xrefreshview_footer_hint_complete">No more data</string>
+    <string name="xrefreshview_footer_hint_click">Click to Load more</string>
+    <string name="xrefreshview_footer_hint_release">松开加载更多</string>
+    <string name="xrefreshview_footer_hint_ready">Loosen to Load more</string>
+    <string name="xrefreshview_never_refresh">Never refresh</string>
+    <string name="xrefreshview_refresh_justnow">Just refresh</string>
+    <string name="xrefreshview_refresh_minutes_ago">Refresh %1s minutes ago</string>
+    <string name="xrefreshview_refresh_hours_ago">Refresh %1s hours ago</string>
+    <string name="xrefreshview_refresh_days_ago">Refresh %1s days ago</string>
+</resources>

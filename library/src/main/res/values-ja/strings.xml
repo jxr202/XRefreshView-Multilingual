@@ -1,0 +1,20 @@
+<resources>
+    <string name="xrefreshview_header_hint_normal">プルダウンリフレッシュ</string>
+    <string name="xrefreshview_header_hint_ready">リフレッシュデータを壊す</string>
+    <string name="xrefreshview_header_hint_refreshing">リフレッシング…</string>
+    <string name="xrefreshview_header_hint_loading">読み込み中…</string>
+    <string name="xrefreshview_header_hint_loaded">ロード完了</string>
+    <string name="xrefreshview_header_hint_loaded_fail">ロードに失敗しました</string>
+    <string name="xrefreshview_header_last_time">最終更新時間：</string>
+    <string name="xrefreshview_footer_hint_normal">ロード完了</string>
+    <string name="xrefreshview_footer_hint_fail">読み込みに失敗しました。もう一度やり直してください</string>
+    <string name="xrefreshview_footer_hint_complete">これ以上のデータはありません</string>
+    <string name="xrefreshview_footer_hint_click">クリックして詳細をロード</string>
+    <string name="xrefreshview_footer_hint_release">負荷をもっと読み込みます</string>
+    <string name="xrefreshview_footer_hint_ready">負荷をさらに読み込みます</string>
+    <string name="xrefreshview_never_refresh">リフレッシュしない</string>
+    <string name="xrefreshview_refresh_justnow">ちょうどリフレッシュされた</string>
+    <string name="xrefreshview_refresh_minutes_ago">%1s前にリフレッシュ</string>
+    <string name="xrefreshview_refresh_hours_ago">リフレッシュ前の %1s</string>
+    <string name="xrefreshview_refresh_days_ago">リフレッシュ前の %1s</string>
+</resources>

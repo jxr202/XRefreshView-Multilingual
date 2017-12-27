@@ -1,0 +1,20 @@
+<resources>
+    <string name="xrefreshview_header_hint_normal">обновление Выпадающее</string>
+    <string name="xrefreshview_header_hint_ready">Обновление данных релиз</string>
+    <string name="xrefreshview_header_hint_refreshing">освежение…</string>
+    <string name="xrefreshview_header_hint_loading">загрузка…</string>
+    <string name="xrefreshview_header_hint_loaded">Загрузка завершена</string>
+    <string name="xrefreshview_header_hint_loaded_fail">加载失败</string>
+    <string name="xrefreshview_header_last_time">Последнее обновление：</string>
+    <string name="xrefreshview_footer_hint_normal">Загрузка завершена</string>
+    <string name="xrefreshview_footer_hint_fail">Не удалось загрузить, пожалуйста, попробуйте еще раз</string>
+    <string name="xrefreshview_footer_hint_complete">Больше нет данных больше нет</string>
+    <string name="xrefreshview_footer_hint_click">Нажмите Загрузить еще</string>
+    <string name="xrefreshview_footer_hint_release">松开加载更多</string>
+    <string name="xrefreshview_footer_hint_ready">Ослабить Загрузить больше</string>
+    <string name="xrefreshview_never_refresh">никогда не обновлять</string>
+    <string name="xrefreshview_refresh_justnow">Просто обновите</string>
+    <string name="xrefreshview_refresh_minutes_ago">%1s обновить минут назад</string>
+    <string name="xrefreshview_refresh_hours_ago">%1s час до обновления</string>
+    <string name="xrefreshview_refresh_days_ago">%1s час до обновления</string>
+</resources>

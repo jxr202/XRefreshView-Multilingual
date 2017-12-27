@@ -1,0 +1,20 @@
+<resources>
+    <string name="xrefreshview_header_hint_normal">açılan yenileme</string>
+    <string name="xrefreshview_header_hint_ready">Veri serbest Yenile</string>
+    <string name="xrefreshview_header_hint_refreshing">ferahlatıcı…</string>
+    <string name="xrefreshview_header_hint_loading">yükleme…</string>
+    <string name="xrefreshview_header_hint_loaded">yükleme tamamlandı</string>
+    <string name="xrefreshview_header_hint_loaded_fail">加载失败</string>
+    <string name="xrefreshview_header_last_time">Son güncelleme：</string>
+    <string name="xrefreshview_footer_hint_normal">yükleme tamamlandı</string>
+    <string name="xrefreshview_footer_hint_fail">Yüke Başarısız, lütfen tekrar deneyin</string>
+    <string name="xrefreshview_footer_hint_complete">Daha fazla veri artık</string>
+    <string name="xrefreshview_footer_hint_click">Daha fazla yükle tıklayın</string>
+    <string name="xrefreshview_footer_hint_release">松开加载更多</string>
+    <string name="xrefreshview_footer_hint_ready">Daha Yük gevşetin</string>
+    <string name="xrefreshview_never_refresh">asla yenileme</string>
+    <string name="xrefreshview_refresh_justnow">sadece yenileme</string>
+    <string name="xrefreshview_refresh_minutes_ago">%1s dakika önce yenileme</string>
+    <string name="xrefreshview_refresh_hours_ago">Refresh önce %1s saat</string>
+    <string name="xrefreshview_refresh_days_ago">Refresh önce %1s saat</string>
+</resources>

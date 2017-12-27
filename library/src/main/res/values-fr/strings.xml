@@ -1,0 +1,20 @@
+<resources>
+    <string name="xrefreshview_header_hint_normal">refresh déroulante</string>
+    <string name="xrefreshview_header_hint_ready">Actualisez la diffusion des données</string>
+    <string name="xrefreshview_header_hint_refreshing">rafraîchissant…</string>
+    <string name="xrefreshview_header_hint_loading">chargement…</string>
+    <string name="xrefreshview_header_hint_loaded">Chargement terminé</string>
+    <string name="xrefreshview_header_hint_loaded_fail">加载失败</string>
+    <string name="xrefreshview_header_last_time">Dernière mise à jour：</string>
+    <string name="xrefreshview_footer_hint_normal">Chargement terminé</string>
+    <string name="xrefreshview_footer_hint_fail">Échec de la charge, s\'il vous plaît essayer à nouveau</string>
+    <string name="xrefreshview_footer_hint_complete">Plus données ne sont plus</string>
+    <string name="xrefreshview_footer_hint_click">Cliquez sur Charger plus</string>
+    <string name="xrefreshview_footer_hint_release">松开加载更多</string>
+    <string name="xrefreshview_footer_hint_ready">Desserrez charge plus</string>
+    <string name="xrefreshview_never_refresh">jamais rafraîchir</string>
+    <string name="xrefreshview_refresh_justnow">Il suffit de rafraîchir</string>
+    <string name="xrefreshview_refresh_minutes_ago">1s% rafraîchissent il y a minutes</string>
+    <string name="xrefreshview_refresh_hours_ago">%1s heure avant rafraîchissement</string>
+    <string name="xrefreshview_refresh_days_ago">%1s heure avant rafraîchissement</string>
+</resources>

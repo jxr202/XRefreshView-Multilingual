@@ -1,0 +1,20 @@
+<resources>
+    <string name="xrefreshview_header_hint_normal">下拉刷新</string>
+    <string name="xrefreshview_header_hint_ready">鬆開刷新數據</string>
+    <string name="xrefreshview_header_hint_refreshing">正在刷新...</string>
+    <string name="xrefreshview_header_hint_loading">正在加載...</string>
+    <string name="xrefreshview_header_hint_loaded">加載完成</string>
+    <string name="xrefreshview_header_hint_loaded_fail">加載失敗</string>
+    <string name="xrefreshview_header_last_time">上次更新時間：</string>
+    <string name="xrefreshview_footer_hint_normal">加載完成</string>
+    <string name="xrefreshview_footer_hint_fail">加載失敗，請重試</string>
+    <string name="xrefreshview_footer_hint_complete">已無更多數據</string>
+    <string name="xrefreshview_footer_hint_click">點擊加載更多</string>
+    <string name="xrefreshview_footer_hint_release">鬆開加載更多</string>
+    <string name="xrefreshview_footer_hint_ready">鬆開載入更多</string>
+    <string name="xrefreshview_never_refresh">從未刷新</string>
+    <string name="xrefreshview_refresh_justnow">剛剛刷新</string>
+    <string name="xrefreshview_refresh_minutes_ago">%1s分鐘之前刷新</string>
+    <string name="xrefreshview_refresh_hours_ago">%1s小時之前刷新</string>
+    <string name="xrefreshview_refresh_days_ago">%1s天之前刷新</string>
+</resources>
