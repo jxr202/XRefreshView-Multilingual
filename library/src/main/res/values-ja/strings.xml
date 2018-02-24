@@ -14,7 +14,7 @@
     <string name="xrefreshview_footer_hint_ready">負荷をさらに読み込みます</string>
     <string name="xrefreshview_never_refresh">リフレッシュしない</string>
     <string name="xrefreshview_refresh_justnow">ちょうどリフレッシュされた</string>
-    <string name="xrefreshview_refresh_minutes_ago">%1s前にリフレッシュ</string>
+    <string name="xrefreshview_refresh_minutes_ago">%1s 前にリフレッシュ</string>
     <string name="xrefreshview_refresh_hours_ago">リフレッシュ前の %1s</string>
     <string name="xrefreshview_refresh_days_ago">リフレッシュ前の %1s</string>
 </resources>

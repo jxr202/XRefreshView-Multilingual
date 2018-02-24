@@ -14,7 +14,7 @@
     <string name="xrefreshview_footer_hint_ready">Desserrez charge plus</string>
     <string name="xrefreshview_never_refresh">jamais rafraîchir</string>
     <string name="xrefreshview_refresh_justnow">Il suffit de rafraîchir</string>
-    <string name="xrefreshview_refresh_minutes_ago">1s% rafraîchissent il y a minutes</string>
+    <string name="xrefreshview_refresh_minutes_ago">%1s rafraîchissent il y a minutes</string>
     <string name="xrefreshview_refresh_hours_ago">%1s heure avant rafraîchissement</string>
     <string name="xrefreshview_refresh_days_ago">%1s heure avant rafraîchissement</string>
 </resources>
