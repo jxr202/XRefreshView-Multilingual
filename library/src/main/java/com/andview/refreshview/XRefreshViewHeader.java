@@ -64,30 +64,30 @@ public class XRefreshViewHeader extends LinearLayout implements IHeaderCallBack 
     }
 
     public void setRefreshTime(long lastRefreshTime) {
-        // 获取当前时间
-        Calendar mCalendar = Calendar.getInstance();
-        long refreshTime = mCalendar.getTimeInMillis();
-        long howLong = refreshTime - lastRefreshTime;
-        int minutes = (int) (howLong / 1000 / 60);
-        String refreshTimeText = null;
-        Resources resources = getContext().getResources();
-        if (minutes < 1) {
-            refreshTimeText = resources
-                    .getString(R.string.xrefreshview_refresh_justnow);
-        } else if (minutes < 60) {
-            refreshTimeText = resources
-                    .getString(R.string.xrefreshview_refresh_minutes_ago);
-            refreshTimeText = Utils.format(refreshTimeText, minutes);
-        } else if (minutes < 60 * 24) {
-            refreshTimeText = resources
-                    .getString(R.string.xrefreshview_refresh_hours_ago);
-            refreshTimeText = Utils.format(refreshTimeText, minutes / 60);
-        } else {
-            refreshTimeText = resources
-                    .getString(R.string.xrefreshview_refresh_days_ago);
-            refreshTimeText = Utils.format(refreshTimeText, minutes / 60 / 24);
+        try {
+            // 获取当前时间
+            Calendar mCalendar = Calendar.getInstance();
+            long refreshTime = mCalendar.getTimeInMillis();
+            long howLong = refreshTime - lastRefreshTime;
+            int minutes = (int) (howLong / 1000 / 60);
+            String refreshTimeText;
+            Resources resources = getContext().getResources();
+            if (minutes < 1) {
+                refreshTimeText = resources.getString(R.string.xrefreshview_refresh_justnow);
+            } else if (minutes < 60) {
+                refreshTimeText = resources.getString(R.string.xrefreshview_refresh_minutes_ago);
+                refreshTimeText = Utils.format(refreshTimeText, minutes);
+            } else if (minutes < 60 * 24) {
+                refreshTimeText = resources.getString(R.string.xrefreshview_refresh_hours_ago);
+                refreshTimeText = Utils.format(refreshTimeText, minutes / 60);
+            } else {
+                refreshTimeText = resources.getString(R.string.xrefreshview_refresh_days_ago);
+                refreshTimeText = Utils.format(refreshTimeText, minutes / 60 / 24);
+            }
+            mHeaderTimeTextView.setText(refreshTimeText);
+        } catch (Exception e) {
+            e.printStackTrace();
         }
-        mHeaderTimeTextView.setText(refreshTimeText);
     }
 
     /**
